@@ -24,6 +24,11 @@ body {
     overflow-x: hidden;
 }
 
+.stock-image{
+    width: 550px !important;
+    height: 440px !important;
+}
+
 @media (max-width: 960px) {
     .uk-section.uk-padding-large {
         padding-left: 0;
@@ -7443,6 +7448,7 @@ readers do not read off random characters that represent icons */
 
 .in-profit-10 .uk-background-contain {
     background-size: 498px 314px;
+
 }
 
 @media (max-width: 639px) {
